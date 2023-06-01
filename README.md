@@ -1,2 +1,2 @@
-# full-stack Space-Booking-App
+# Full-Stack Space-Booking-App
 It is still a work in Progress. 
